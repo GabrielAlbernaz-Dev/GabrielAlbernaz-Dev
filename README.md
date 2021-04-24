@@ -12,6 +12,6 @@
 
 
 <span><img src="https://img.icons8.com/color/2x/javascript-logo-1.png"></span>
-<span><img src="https://img.icons8.com/color/2x/javascript-logo-1.png"></span>
+<span><img src="https://img.icons8.com/color/2x/css3.png"></span>
 <span><img src="https://img.icons8.com/color/2x/javascript.png"></span>
 
