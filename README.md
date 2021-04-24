@@ -1,4 +1,4 @@
-![enter image description here](https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif) 
+<img src="https://img.icons8.com/cute-clipart/2x/usa.png">
 ### Hi there , I'm Gabriel Albernaz
 
 ##Front End Developer
@@ -14,4 +14,6 @@
 <span><img src="https://img.icons8.com/color/2x/javascript-logo-1.png"></span>
 <span><img src="https://img.icons8.com/color/2x/css3.png"></span>
 <span><img src="https://img.icons8.com/color/2x/javascript.png"></span>
+<span><img src="https://img.icons8.com/color/2x/bootstrap.png"></span>
+
 
