@@ -6,7 +6,7 @@
 - 🔭 I’m not working right now
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on some company that needs front end dev
-- 🤔 I’m looking for help with front end devolepment
+- 🤔 I’m looking for improve and learn
 - 📫 How to reach me: gabrielalbernaz22@gmail.com
 
 
