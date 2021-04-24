@@ -1,6 +1,5 @@
-### Hi there , I'm Gabriel Albernaz
 <span><img src="https://img.icons8.com/cute-clipart/2x/usa.png" width="50"></span>
-
+### Hi there , I'm Gabriel Albernaz
 ##Front End Developer
 
 
