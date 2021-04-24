@@ -1,4 +1,4 @@
-<span><img src="https://img.icons8.com/cute-clipart/2x/usa.png" width="50"></span>
+<span><img src="https://img.icons8.com/color/2x/brazil.png" width="50"></span>
 ### Hi there , I'm Gabriel Albernaz
 ##Front End Developer
 
@@ -10,9 +10,9 @@
 - 📫 How to reach me: gabrielalbernaz22@gmail.com
 
 
-<span><img src="https://img.icons8.com/color/2x/javascript-logo-1.png"></span>
-<span><img src="https://img.icons8.com/color/2x/css3.png"></span>
-<span><img src="https://img.icons8.com/color/2x/javascript.png"></span>
-<span><img src="https://img.icons8.com/color/2x/bootstrap.png"></span>
+<span><img src="https://img.icons8.com/color/2x/javascript-logo-1.png" width="70"></span>
+<span><img src="https://img.icons8.com/color/2x/css3.png" width="70"></span>
+<span><img src="https://img.icons8.com/color/2x/javascript.png" width="70"></span>
+<span><img src="https://img.icons8.com/color/2x/bootstrap.png" width="70"></span>
 
 
