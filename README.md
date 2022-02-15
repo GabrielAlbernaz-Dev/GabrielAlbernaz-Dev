@@ -3,7 +3,6 @@
 <h3>Front End Developer</h3>
 
 
-- 🔭 I’m not working right now
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on some company that needs front end dev
 - 🤔 I’m looking for improve and learn
