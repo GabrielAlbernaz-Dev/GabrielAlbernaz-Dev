@@ -15,4 +15,5 @@
 <span><img src="https://img.icons8.com/color/2x/bootstrap.png" width="70"></span>
 <span><img src="https://img.icons8.com/color/2x/git.png" width="70"></span>
 <span><img src="https://img.icons8.com/office/344/react.png" width="70"></span>
+<span><img src="https://img.icons8.com/ios-filled/344/wordpress--v1.png" width="70"></span>
 
