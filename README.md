@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on some company that needs front end dev
+- 👯 I’m Web Designer at Conceito Prime
 - 🤔 I’m looking for improve and learn
 - 📫 How to reach me: gabrielalbernaz22@gmail.com
 
@@ -14,5 +14,5 @@
 <span><img src="https://img.icons8.com/color/2x/javascript.png" width="70"></span>
 <span><img src="https://img.icons8.com/color/2x/bootstrap.png" width="70"></span>
 <span><img src="https://img.icons8.com/color/2x/git.png" width="70"></span>
-
+<span><img src="https://img.icons8.com/office/344/react.png" width="70"></span>
 
