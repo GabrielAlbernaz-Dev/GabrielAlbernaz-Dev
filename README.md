@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m currently learning ...
-- 👯 I’m Web Designer at Conceito Prime
+- 👯 I’m Web Developer at Simples.Inovacão
 - 🤔 I’m looking for improve and learn
 - 📫 How to reach me: gabrielalbernaz22@gmail.com
 
