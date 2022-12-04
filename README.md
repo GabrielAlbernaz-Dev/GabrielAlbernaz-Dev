@@ -12,7 +12,7 @@
 <span><img src="https://img.icons8.com/color/2x/javascript-logo-1.png" width="70"></span>
 <span><img src="https://img.icons8.com/color/2x/css3.png" width="70"></span>
 <span><img src="https://img.icons8.com/color/2x/javascript.png" width="70"></span>
-<span><img src="https://img.icons8.com/color/2x/php.png" width="70"></span>
+<span><img src="https://icons8.com.br/icon/fAMVO_fuoOuC/logo-php" width="70"></span>
 <span><img src="https://img.icons8.com/color/2x/bootstrap.png" width="70"></span>
 <span><img src="https://img.icons8.com/color/2x/git.png" width="70"></span>
 <span><img src="https://img.icons8.com/office/344/react.png" width="70"></span>
