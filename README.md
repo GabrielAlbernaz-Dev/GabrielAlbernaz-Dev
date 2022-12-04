@@ -13,7 +13,7 @@
 <span><img src="https://img.icons8.com/color/2x/css3.png" width="70"></span>
 <span><img src="https://img.icons8.com/color/2x/javascript.png" width="70"></span>
 <span><img src="https://cdn.iconscout.com/icon/free/png-256/jquery-8-1175153.png" width="70"></span>
-<span><img src="https://www.php.net/images/logos/new-php-logo.svg" width="70"></span>
+<span><img src="https://www.php.net/images/logos/new-php-logo.svg" width="90"></span>
 <span><img src="https://img.icons8.com/color/2x/bootstrap.png" width="70"></span>
 <span><img src="https://img.icons8.com/color/2x/git.png" width="70"></span>
 <span><img src="https://img.icons8.com/office/344/react.png" width="70"></span>
