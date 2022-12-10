@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m currently learning ...
-- 👯 I’m Full Stack Developer at Conselho Federal de Medicina e Veterinária
+- 👯 I’m Full Stack Developer at Conselho Federal de Medicina Veterinária
 - 🤔 I’m looking for improve and learn
 - 📫 How to reach me: gabrielalbernaz22@gmail.com
 
