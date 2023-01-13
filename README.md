@@ -18,5 +18,4 @@
 <span><img src="https://img.icons8.com/color/2x/git.png" width="70"></span>
 <span><img src="https://img.icons8.com/office/344/react.png" width="70"></span>
 <span><img src="https://img.icons8.com/fluency/344/wordpress.png" width="70"></span>
-<span><img src="https://icons8.com.br/icon/3UzMbioJA7La/vuejs" width="70"></span>
 
