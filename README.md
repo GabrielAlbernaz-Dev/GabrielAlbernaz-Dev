@@ -5,7 +5,7 @@
 ---
 <div align="center">
   
-# 💫About Me :
+# 📖 About Me :
   🔭 I’m currently working on: Conselho Federal de Medicina Veterinária
   
   🌱 I’m currently learning : Laravel
@@ -14,9 +14,8 @@
 
   💬 Ask me about for any help
 
-  📫 How to reach me:  
-  Mail me at "gabrielalbernaz22@gmail.com" or 
-  scroll to bottom of the page of "https://gabrielalbernaz-dev.github.io/portfolio/" and find CONTACT ME
+  📫 How to reach me: Mail me at "gabrielalbernaz22@gmail.com" <br>
+  ⌨ Personal Website: "https://gabrielalbernaz-dev.github.io/portfolio/"
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SAAS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
