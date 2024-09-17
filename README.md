@@ -8,7 +8,7 @@
 # 📖 About Me :
   🔭 I’m currently working on: Conselho Federal de Medicina Veterinária
   
-  🌱 I’m currently learning : Laravel
+  🌱 I’m currently learning : Spring boot
 
   👯 I’m looking to collaborate on projects
 
